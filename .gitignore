@@ -1,0 +1,14 @@
+# 操作系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Python / 编辑器缓存
+__pycache__/
+*.pyc
+.dsh-office*

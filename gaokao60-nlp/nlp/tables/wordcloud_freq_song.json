@@ -1,0 +1,462 @@
+{
+  "desc": "宋代词云加权词频 Top150",
+  "single_char_scale": 0.55,
+  "terms": [
+    {
+      "rank": 1,
+      "term": "风",
+      "weighted_freq": 11.55,
+      "term_len": 1
+    },
+    {
+      "rank": 2,
+      "term": "天下",
+      "weighted_freq": 10.0,
+      "term_len": 2
+    },
+    {
+      "rank": 3,
+      "term": "山",
+      "weighted_freq": 8.8,
+      "term_len": 1
+    },
+    {
+      "rank": 4,
+      "term": "月",
+      "weighted_freq": 8.8,
+      "term_len": 1
+    },
+    {
+      "rank": 5,
+      "term": "江",
+      "weighted_freq": 8.8,
+      "term_len": 1
+    },
+    {
+      "rank": 6,
+      "term": "水",
+      "weighted_freq": 7.7,
+      "term_len": 1
+    },
+    {
+      "rank": 7,
+      "term": "夜",
+      "weighted_freq": 6.05,
+      "term_len": 1
+    },
+    {
+      "rank": 8,
+      "term": "石",
+      "weighted_freq": 6.05,
+      "term_len": 1
+    },
+    {
+      "rank": 9,
+      "term": "客",
+      "weighted_freq": 5.5,
+      "term_len": 1
+    },
+    {
+      "rank": 10,
+      "term": "日",
+      "weighted_freq": 5.5,
+      "term_len": 1
+    },
+    {
+      "rank": 11,
+      "term": "明月",
+      "weighted_freq": 4.0,
+      "term_len": 2
+    },
+    {
+      "rank": 12,
+      "term": "城",
+      "weighted_freq": 3.85,
+      "term_len": 1
+    },
+    {
+      "rank": 13,
+      "term": "歌",
+      "weighted_freq": 3.85,
+      "term_len": 1
+    },
+    {
+      "rank": 14,
+      "term": "草",
+      "weighted_freq": 3.85,
+      "term_len": 1
+    },
+    {
+      "rank": 15,
+      "term": "云",
+      "weighted_freq": 3.3,
+      "term_len": 1
+    },
+    {
+      "rank": 16,
+      "term": "心",
+      "weighted_freq": 3.3,
+      "term_len": 1
+    },
+    {
+      "rank": 17,
+      "term": "酒",
+      "weighted_freq": 3.3,
+      "term_len": 1
+    },
+    {
+      "rank": 18,
+      "term": "雪",
+      "weighted_freq": 3.3,
+      "term_len": 1
+    },
+    {
+      "rank": 19,
+      "term": "千古",
+      "weighted_freq": 3.0,
+      "term_len": 2
+    },
+    {
+      "rank": 20,
+      "term": "千里",
+      "weighted_freq": 3.0,
+      "term_len": 2
+    },
+    {
+      "rank": 21,
+      "term": "梦",
+      "weighted_freq": 2.75,
+      "term_len": 1
+    },
+    {
+      "rank": 22,
+      "term": "楼",
+      "weighted_freq": 2.75,
+      "term_len": 1
+    },
+    {
+      "rank": 23,
+      "term": "秋",
+      "weighted_freq": 2.75,
+      "term_len": 1
+    },
+    {
+      "rank": 24,
+      "term": "雨",
+      "weighted_freq": 2.75,
+      "term_len": 1
+    },
+    {
+      "rank": 25,
+      "term": "马",
+      "weighted_freq": 2.75,
+      "term_len": 1
+    },
+    {
+      "rank": 26,
+      "term": "一一",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 27,
+      "term": "万里",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 28,
+      "term": "万顷",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 29,
+      "term": "乱石",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 30,
+      "term": "人间",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 31,
+      "term": "仓皇",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 32,
+      "term": "先王",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 33,
+      "term": "十里",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 34,
+      "term": "夜雪",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 35,
+      "term": "山间",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 36,
+      "term": "扁舟",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 37,
+      "term": "扣舷",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 38,
+      "term": "故国",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 39,
+      "term": "月明",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 40,
+      "term": "江山",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 41,
+      "term": "清风",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 42,
+      "term": "澄江",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 43,
+      "term": "用兵",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 44,
+      "term": "相逢",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 45,
+      "term": "相顾",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 46,
+      "term": "繁华",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 47,
+      "term": "老人",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 48,
+      "term": "谈笑",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 49,
+      "term": "豪杰",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 50,
+      "term": "赤壁",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 51,
+      "term": "铁马",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 52,
+      "term": "长安",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 53,
+      "term": "黄昏",
+      "weighted_freq": 2.0,
+      "term_len": 2
+    },
+    {
+      "rank": 54,
+      "term": "东风",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 55,
+      "term": "佳人",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 56,
+      "term": "凄凉",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 57,
+      "term": "孤舟",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 58,
+      "term": "山川",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 59,
+      "term": "扬州",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 60,
+      "term": "故乡",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 61,
+      "term": "斜阳",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 62,
+      "term": "春风",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 63,
+      "term": "沧海",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 64,
+      "term": "洞庭",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 65,
+      "term": "流水",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 66,
+      "term": "烽火",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 67,
+      "term": "秋风",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 68,
+      "term": "美人",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 69,
+      "term": "蜉蝣",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 70,
+      "term": "西风",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 71,
+      "term": "金戈",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 72,
+      "term": "钟鼓",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 73,
+      "term": "长江",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 74,
+      "term": "青山",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 75,
+      "term": "鱼龙",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    },
+    {
+      "rank": 76,
+      "term": "黄花",
+      "weighted_freq": 1.0,
+      "term_len": 2
+    }
+  ]
+}
