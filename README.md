@@ -42,6 +42,15 @@
 - 语料用字依人教统编版教材，并经独立来源校对；内容仅用于教学与研究。
 - 目录约定：子项目用 kebab-case 命名；文档、数据、图表、校对分目录存放。
 
+## 仓库地址（双远端）
+
+| 平台 | 地址 |
+| --- | --- |
+| CNB | https://cnb.cool/InspireWorks/CTNLP |
+| GitHub | https://github.com/XiaoYangTech/CTNLP |
+
+本地仓库已配置双远端推送：执行 `git push` 会同时更新 CNB 与 GitHub。
+
 ## 实验室
 
 亿方运维知识工程实验室聚焦运维知识工程与文本智能处理；CTNLP 为其中“语文教学文本数据分析”项目仓库。
