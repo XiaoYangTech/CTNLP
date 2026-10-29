@@ -1,6 +1,6 @@
-# CTNLP
+# CTNLP —— Chinese Teaching NLP Project
 
-**亿方运维知识工程实验室（Yifang O&M Knowledge Engineering Lab）**
+**亿方运维知识工程实验室**
 **项目：语文教学文本数据分析**
 
 本仓库是实验室“语文教学文本数据分析”方向的项目仓库。围绕高中语文教材、课程标准必背篇目与考试文本，做三件事：
